@@ -1,0 +1,18 @@
+c:\users\qilian\documents\visual studio 2015\Projects\WebAccountProviders\WebAccountProviders\bin\Debug\WebAccountProviders.exe.config
+c:\users\qilian\documents\visual studio 2015\Projects\WebAccountProviders\WebAccountProviders\bin\Debug\WebAccountProviders.exe
+c:\users\qilian\documents\visual studio 2015\Projects\WebAccountProviders\WebAccountProviders\bin\Debug\WebAccountProviders.pdb
+c:\users\qilian\documents\visual studio 2015\Projects\WebAccountProviders\WebAccountProviders\bin\Debug\Windows.Foundation.winmd
+c:\users\qilian\documents\visual studio 2015\Projects\WebAccountProviders\WebAccountProviders\bin\Debug\Windows.Security.winmd
+c:\users\qilian\documents\visual studio 2015\Projects\WebAccountProviders\WebAccountProviders\bin\Debug\Windows.WinMD
+c:\users\qilian\documents\visual studio 2015\Projects\WebAccountProviders\WebAccountProviders\obj\Debug\WebAccountProviders.csprojResolveAssemblyReference.cache
+c:\users\qilian\documents\visual studio 2015\Projects\WebAccountProviders\WebAccountProviders\obj\Debug\WebAccountProviders.exe
+c:\users\qilian\documents\visual studio 2015\Projects\WebAccountProviders\WebAccountProviders\obj\Debug\WebAccountProviders.pdb
+D:\github\WebAccountProviders\WebAccountProviders\bin\Debug\WebAccountProviders.exe.config
+D:\github\WebAccountProviders\WebAccountProviders\obj\Debug\WebAccountProviders.exe
+D:\github\WebAccountProviders\WebAccountProviders\obj\Debug\WebAccountProviders.pdb
+D:\github\WebAccountProviders\WebAccountProviders\bin\Debug\WebAccountProviders.exe
+D:\github\WebAccountProviders\WebAccountProviders\bin\Debug\WebAccountProviders.pdb
+D:\github\WebAccountProviders\WebAccountProviders\bin\Debug\Windows.Foundation.winmd
+D:\github\WebAccountProviders\WebAccountProviders\bin\Debug\Windows.Security.winmd
+D:\github\WebAccountProviders\WebAccountProviders\bin\Debug\Windows.WinMD
+D:\github\WebAccountProviders\WebAccountProviders\obj\Debug\WebAccountProviders.csprojResolveAssemblyReference.cache
