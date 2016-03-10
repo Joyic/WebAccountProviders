@@ -23,7 +23,7 @@ namespace WebAccountProviders
         {
             try
             {
-                IAsyncOperation<WebAccountProvider> provider = WebAuthenticationCoreManager.FindAccountProviderAsync("https://login.windows.net");//login.windows.local
+                IAsyncOperation<WebAccountProvider> provider = WebAuthenticationCoreManager.FindAccountProviderAsync("login.windows.local");//login.windows.local
                 
 
                 //int count = 5;
